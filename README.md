@@ -1,5 +1,5 @@
 ## Sup!Nice to meet you
-![Avatar](images\Волшебник.jpg)
+![Avatar](images/magicman.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
