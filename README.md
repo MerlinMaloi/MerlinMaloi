@@ -16,13 +16,13 @@ Gaming industry
 
 ##### **Learn...**
 
-*Python
-*JavaScript
-*Java
-*SQL
+-Python
+-JavaScript
+-Java
+-SQL
 
 *Want to learn C# and C++* 
 
 ###### Contacts:
 
-*maloialeks@gmail.com*
+*malloialeks@gmail.com*
