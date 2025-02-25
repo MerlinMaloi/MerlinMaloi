@@ -1,12 +1,28 @@
+
 ## Sup!Nice to meet you
 ![Avatar](images/magicman.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Who am I?
+
+I am a beginner developer. Want to be a gamedesigner. 
+I'm learning to program for better orientation in IT.
+I'm slowly moving towards my goals.
+
+##### My interests...
+
+To do something special for the whole world in positive key
+Freedom of creativity
+Gaming industry
+
+##### **Learn...**
+
+*Python
+*JavaScript
+*Java
+*SQL
+
+*Want to learn C# and C++* 
+
+###### Contacts:
+
+*maloialeks@gmail.com*
